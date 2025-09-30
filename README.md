@@ -192,4 +192,5 @@ This portfolio was created to showcase tremendous development skills and is dedi
 
 ---
 
-Made ♥ by Donald (President of USA) for my favourite tech club MTC_BPDC
+Made ♥ by MTC_BPDC
+
