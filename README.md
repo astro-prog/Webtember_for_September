@@ -192,5 +192,6 @@ This portfolio was created to showcase tremendous development skills and is dedi
 
 ---
 
-Made ♥ by MTC_BPDC
+Made ♥ by Microsoft Tech Club
+BPDC
 
